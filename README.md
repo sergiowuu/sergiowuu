@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about NextJS , NodeJS and Python<br>🎯 Goals: To become a great developer</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about NextJS, Python with AI<br>🎯 Goals: To become a great developer</p>
 
 ###
 
