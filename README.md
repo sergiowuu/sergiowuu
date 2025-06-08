@@ -1,15 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Sergio and I'm a brazilian from Brazil.</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiowuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiowuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h1 align="left">Hey 👋 What's up? I'm Sérgio</h1>
 
 ###
 
@@ -17,7 +6,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about NextJS , NodeJS and Python<br>🎯 Goals: To become a great developer<br>🎲 Fun fact: I am of Chinese descent</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning about NextJS , NodeJS and Python<br>🎯 Goals: To become a great developer</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiowuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiowuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
