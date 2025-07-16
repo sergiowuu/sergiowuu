@@ -1,4 +1,10 @@
-<h1 align="left">👋 Olá, sou o Sérgio</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<h1 align="center">👋 Olá, sou Sérgio!</h1>
 
 ###
 
@@ -6,7 +12,7 @@
 
 ###
 
-<h2 align="left">💫 Sobre mim</h2>
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
@@ -14,18 +20,15 @@
 
 ###
 
-<h2 align="left">⭐ GitHub Stats</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergiowuu/sergiowuu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergiowuu/sergiowuu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sergiowuu/sergiowuu/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergiowuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiowuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="400" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">Habilidades</h2>
+<h3 align="left">🛠 Habilidades</h3>
 
 ###
 
@@ -51,6 +54,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h3 align="left">⭐ GitHub Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiowuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiowuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="250" alt="languages graph"  />
 </div>
 
 ###
