@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full-Stack em formação, comprometido em sempre aprender e criar soluções modernas, funcionais e com propósito.<br>Tenho focado meus estudos em <b>Node.js</b> e <b>React</b>, buscando transformar cada aprendizado em projetos reais que tragam me valor ao longo da minha jornada como um desenvolvedor e futuramente um Engenheiro de Software.</p>
+<p align="left">Desenvolvedor Full-Stack em formação, comprometido em sempre aprender e criar soluções modernas, funcionais e com propósito.<br>Tenho focado meus estudos em <b>Node.js</b> e <b>React</b>, buscando transformar cada aprendizado em projetos reais que me tragam valor ao longo da minha jornada como um desenvolvedor e futuramente um Engenheiro de Software.</p>
 
 ###
 
@@ -14,17 +14,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sergiowuu/sergiowuu/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">⭐ GitHub Stats</h2>
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sergiowuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiowuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiowuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="400" alt="languages graph"  />
 </div>
 
 ###
