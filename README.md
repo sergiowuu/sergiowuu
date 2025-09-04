@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full-Stack em formação, comprometido em sempre aprender e criar soluções modernas, funcionais e com propósito.<br>Tenho focado meus estudos em <b>Node.js</b> e <b>React</b>, buscando transformar cada aprendizado em projetos reais que me tragam valor ao longo da minha jornada como um desenvolvedor e futuramente um Engenheiro de Software.</p>
+<p align="left">Desenvolvedor back-end em formação, comprometido em sempre aprender e criar soluções modernas, funcionais e com propósito.<br>Tenho focado meus estudos em <b>Node.js</b> & <b>Express</b>, buscando transformar cada aprendizado em projetos reais que me tragam valor ao longo da minha jornada como um desenvolvedor e futuramente um Engenheiro de Software.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">💻 Técnico em Informática<br>🎓 Graduando em Análise e Desenvolvimento de Sistemas pela IFSP<br>📚 Estudando JavaScript, Node.js, React e APIs RESTful<br>🌍 Explorando novas tecnogias e desenvolvendo soluções</p>
+<p align="left">💻 Técnico em Informática<br>🎓 Graduando em Análise e Desenvolvimento de Sistemas pela IFSP<br>📚 Estudando Node.js, Express, APIs RESTful e GraphQL<br>🌍 Explorando novas tecnogias e desenvolvendo soluções</p>
 
 ###
 
