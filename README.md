@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a Full Stack developer in training, committed to continuous learning and building modern, purposeful, and functional solutions.<br>Currently, I'm focusing my studies on Node.js and Express, turning each new skill into practical projects that add real value to my journey as a developer — and eventually, as a Software Engineer.<br><br>💻 IT Technician<br>🎓 B.Sc. in Systems Analysis and Development at IFSP<br>📚 Currently learning: Node.js, Express, RESTful APIs, and GraphQL<br>🌍 Exploring: new technologies and building real-world solutions</p>
+<p align="left">I'm a Full Stack developer in training, committed to continuous learning and building modern, purposeful, and functional solutions.<br>Currently, I'm focusing my studies on <b>Java</b> and <b>Spring Boot</b>, turning each new skill into practical projects that add real value to my journey as a developer — and eventually, as a Software Engineer.<br><br>💻 IT Technician<br>🎓 B.Sc. in Systems Analysis and Development at IFSP<br>📚 Currently learning: Node.js, Express, RESTful APIs, and GraphQL<br>🌍 Exploring: new technologies and building real-world solutions</p>
 
 ###
 
